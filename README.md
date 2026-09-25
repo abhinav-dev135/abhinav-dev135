@@ -1,32 +1,48 @@
-# Hi 👋, I'm Abhinav Singh Yadav
+<h1 align="center">👋 Hi, I'm Abhinav Singh Yadav</h1>
 
-💻 Full-Stack Developer in the Making  
-🎓 BCA '26  
-🚀 Building web applications and learning modern development
+<h3 align="center">💻 Full-Stack Developer</h3>
 
-### 🛠️ Technologies
+---
 
-- JavaScript
-- HTML
-- CSS
-- MySQL
-- Git & GitHub
-- Prompt Engineering
+## 👨‍💻 About Me
 
-### 🔗 Connect with me
+- 🌱 Currently learning Full-Stack Development
+- 🚀 Building practical web applications
+- 💡 Interested in software development and problem solving
 
-- LinkedIn: https://www.linkedin.com/in/abhinav135/
-<!--
-**abhinav-dev135/abhinav-dev135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Technologies and Tools I use:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 📦 Billing and Inventory Management System
+
+A web-based system for managing inventory, billing, suppliers, customers, and reports, with AI-based stock prediction.
+
+**Tech Stack:** React.js · Node.js · Express.js · MySQL
+
+[🔗 View Project](https://github.com/abhinav-dev135/Billing-and-Inventory-Management-System)
+
+---
+
+## 💗 Let's get connected:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhinav135/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/abhinav-dev135">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
