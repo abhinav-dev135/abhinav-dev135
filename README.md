@@ -1,5 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Abhinav Singh Yadav
 
+💻 Full-Stack Developer in the Making  
+🎓 BCA '26  
+🚀 Building web applications and learning modern development
+
+### 🛠️ Technologies
+
+- JavaScript
+- HTML
+- CSS
+- MySQL
+- Git & GitHub
+- Prompt Engineering
+
+### 🔗 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/abhinav135/
 <!--
 **abhinav-dev135/abhinav-dev135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
